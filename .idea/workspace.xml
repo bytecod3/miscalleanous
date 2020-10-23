@@ -11,15 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb686051-ae4f-4da1-a12f-4c4d8df56948" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/miscalleanous.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/algorithms/binary_search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/primes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/algorithms/primes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/primes_optimized.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/algorithms/primes_optimized.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/pics.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/carrousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/web/carrousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/algorithms/binary_search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/algorithms/primes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/algorithms/primes_optimized.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/algorithms/numbers/primes_optimized.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +31,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -55,7 +53,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js/web" />
+      <recent name="$PROJECT_DIR$/js/algorithms/numbers" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,7 +71,11 @@
       <option name="presentableId" value="Default" />
       <updated>1600850064177</updated>
       <workItem from="1600850066029" duration="1752000" />
-      <workItem from="1600860423278" duration="6343000" />
+      <workItem from="1600860423278" duration="6522000" />
+      <workItem from="1601104575762" duration="10833000" />
+      <workItem from="1601204303863" duration="2116000" />
+      <workItem from="1601227056049" duration="17000" />
+      <workItem from="1601381553535" duration="1151000" />
     </task>
     <servers />
   </component>
@@ -83,5 +92,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="176" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601204434068">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="431" y="176" width="424" height="491" key="FileChooserDialogImpl/42.27.1324.741@42.27.1324.741" timestamp="1601204434068" />
+    <state x="82" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1601204447541">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="82" y="31" width="1022" height="737" key="SettingsEditor/42.27.1324.741@42.27.1324.741" timestamp="1601204447541" />
+    <state x="335" y="275" width="626" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601204444917">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="335" y="275" width="626" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/42.27.1324.741@42.27.1324.741" timestamp="1601204444917" />
   </component>
 </project>

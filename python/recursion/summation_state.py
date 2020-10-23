@@ -13,3 +13,4 @@ def summation(current_number, accumulated_sum):
 if __name__ == '__main__':
     #  pass the initial state
     print(summation(1, 0))
+
